@@ -17,14 +17,14 @@
         {
             "name":"springJavaTemplate",
             "extensionId": "https://github.com/microclimate-dev2ops/springJavaTemplate",
-            "description":"Template for building a Spring microcservice",
+            "description":"Template for building a Spring microservice",
             "language":"java",
             "giturl":"https://github.com/microclimate-dev2ops/springJavaTemplate"
         },
         {
             "name":"swiftTemplate",
             "extensionId": "https://github.com/microclimate-dev2ops/swiftJavaTemplate",
-            "description":"Template for building a Spring microcservice",
+            "description":"Template for building a Spring microservice",
             "language":"swift",
             "giturl":"https://github.com/microclimate-dev2ops/swiftTemplate"
         },
