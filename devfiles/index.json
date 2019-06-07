@@ -1,0 +1,42 @@
+[
+{
+  "displayName":"Java MicroProfile template",
+  "description":"Cloud Microservice Starter for Java - MicroProfile / Java EE",
+  "tags":["Java","Maven"],
+  "projectType":"java",
+  "location":"https://github.com/microclimate-dev2ops/javaMicroProfileTemplate",
+  "links": {"self":"/devfiles/javaMicroProfileTemplate/devfile.yaml" }
+}
+,{
+  "displayName":"Spring template",
+  "description":"Template for building a Spring microservice",
+  "tags":["Java","Spring"],
+  "projectType":"spring",
+  "location":"https://github.com/microclimate-dev2ops/springJavaTemplate",
+  "links": {"self":"/devfiles/springJavaTemplate/devfile.yaml" }
+}
+,{
+  "displayName":"Python template",
+  "description":"HelloWorld microservice written in python",
+  "tags":["python","docker"],
+  "projectType":"docker",
+  "location":"https://github.com/microclimate-dev2ops/SVTPythonTemplate",
+  "links": {"self":"/devfiles/pythonTemplate/devfile.yaml" }
+}
+,{
+  "displayName":"Node.js template",
+  "description":"Cloud-ready Node.js Express sample application",
+  "tags":["Nodejs"],
+  "projectType":"nodejs",
+  "location":"https://github.com/microclimate-dev2ops/nodeExpressTemplate",
+  "links": {"self":"/devfiles/nodeExpressTemplate/devfile.yaml" }
+}
+,{
+  "displayName":"Go template",
+  "description":"Sample microservice for simple go app",
+  "tags":["go","docker"],
+  "projectType":"docker",
+  "location":"https://github.com/microclimate-dev2ops/microclimateGoTemplate",
+  "links": {"self":"/devfiles/goTemplate/devfile.yaml" }
+}
+]
