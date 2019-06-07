@@ -2,7 +2,7 @@
 {
   "displayName":"Java MicroProfile template",
   "description":"Cloud Microservice Starter for Java - MicroProfile / Java EE",
-  "tags":["Java","Maven"],
+  "language":"java",
   "projectType":"java",
   "location":"https://github.com/microclimate-dev2ops/javaMicroProfileTemplate",
   "links": {"self":"/devfiles/javaMicroProfileTemplate/devfile.yaml" }
@@ -10,7 +10,7 @@
 ,{
   "displayName":"Spring template",
   "description":"Template for building a Spring microservice",
-  "tags":["Java","Spring"],
+  "language":"java",
   "projectType":"spring",
   "location":"https://github.com/microclimate-dev2ops/springJavaTemplate",
   "links": {"self":"/devfiles/springJavaTemplate/devfile.yaml" }
@@ -18,7 +18,7 @@
 ,{
   "displayName":"Python template",
   "description":"HelloWorld microservice written in python",
-  "tags":["python","docker"],
+  "language":"python",
   "projectType":"docker",
   "location":"https://github.com/microclimate-dev2ops/SVTPythonTemplate",
   "links": {"self":"/devfiles/pythonTemplate/devfile.yaml" }
@@ -26,15 +26,23 @@
 ,{
   "displayName":"Node.js template",
   "description":"Cloud-ready Node.js Express sample application",
-  "tags":["Nodejs"],
+  "language":"nodejs",
   "projectType":"nodejs",
   "location":"https://github.com/microclimate-dev2ops/nodeExpressTemplate",
   "links": {"self":"/devfiles/nodeExpressTemplate/devfile.yaml" }
 }
 ,{
+  "displayName":"Swift microcservice template",
+  "description":"Template for building a Swift microservice",
+  "language":"swift",
+  "projectType":"swift",
+  "location":"https://github.com/microclimate-dev2ops/swiftTemplate",
+  "links": {"self":"/devfiles/swiftTemplate/devfile.yaml" }
+}
+,{
   "displayName":"Go template",
   "description":"Sample microservice for simple go app",
-  "tags":["go","docker"],
+  "language":"go",
   "projectType":"docker",
   "location":"https://github.com/microclimate-dev2ops/microclimateGoTemplate",
   "links": {"self":"/devfiles/goTemplate/devfile.yaml" }

@@ -4,3 +4,4 @@ tags: ["Java", "Spring",]
 globalMemoryLimit: 2674Mi
 icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
 projectType: "spring"
+language: "java"
