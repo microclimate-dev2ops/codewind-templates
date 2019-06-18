@@ -47,4 +47,12 @@
   "location":"https://github.com/microclimate-dev2ops/microclimateGoTemplate",
   "links": {"self":"/devfiles/goTemplate/devfile.yaml" }
 }
+,{
+  "displayName":"Java Lagom template",
+  "description":"Template for building Lagom Reactive microservice in Java",
+  "language":"java",
+  "projectType":"docker",
+  "location":"https://github.com/microclimate-dev2ops/lagomJavaTemplate",
+  "links": {"self":"/devfiles/lagomJavaTemplate/devfile.yaml" }
+}
 ]
