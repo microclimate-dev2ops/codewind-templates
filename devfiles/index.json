@@ -3,7 +3,7 @@
   "displayName":"Java MicroProfile template",
   "description":"Cloud Microservice Starter for Java - MicroProfile / Java EE",
   "language":"java",
-  "projectType":"java",
+  "projectType":"liberty",
   "location":"https://github.com/microclimate-dev2ops/javaMicroProfileTemplate",
   "links": {"self":"/devfiles/javaMicroProfileTemplate/devfile.yaml" }
 }
