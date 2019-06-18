@@ -3,7 +3,7 @@
   "displayName":"Java MicroProfile template",
   "description":"Cloud Microservice Starter for Java - MicroProfile / Java EE",
   "language":"java",
-  "projectType":"liberty",
+  "projectType":"java",
   "location":"https://github.com/microclimate-dev2ops/javaMicroProfileTemplate",
   "links": {"self":"/devfiles/javaMicroProfileTemplate/devfile.yaml" }
 }
@@ -46,5 +46,13 @@
   "projectType":"docker",
   "location":"https://github.com/microclimate-dev2ops/microclimateGoTemplate",
   "links": {"self":"/devfiles/goTemplate/devfile.yaml" }
+}
+,{
+  "displayName":"Java Lagom template",
+  "description":"Template for building Lagom Reactive microservice in Java",
+  "language":"java",
+  "projectType":"docker",
+  "location":"https://github.com/microclimate-dev2ops/lagomJavaTemplate",
+  "links": {"self":"/devfiles/lagomJavaTemplate/devfile.yaml" }
 }
 ]
