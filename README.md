@@ -1,3 +1,7 @@
+# This repository has been moved to https://github.com/kabanero-io/codewind-templates
+
+
+
 # codewind-templates
 Central repository for storing list of supported code templates for use in codewind
 
