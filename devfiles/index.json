@@ -40,7 +40,7 @@
   "links": {"self":"/devfiles/swiftTemplate/devfile.yaml" }
 }
 ,{
-  "displayName":"G",
+  "displayName":"Go",
   "description":"Sample microservice for simple Go app",
   "language":"go",
   "projectType":"docker",
