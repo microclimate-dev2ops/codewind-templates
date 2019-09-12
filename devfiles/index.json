@@ -40,8 +40,8 @@
   "links": {"self":"/devfiles/swiftTemplate/devfile.yaml" }
 }
 ,{
-  "displayName":"GO",
-  "description":"Sample microservice for simple go app",
+  "displayName":"G",
+  "description":"Sample microservice for simple Go app",
   "language":"go",
   "projectType":"docker",
   "location":"https://github.com/microclimate-dev2ops/microclimateGoTemplate",
