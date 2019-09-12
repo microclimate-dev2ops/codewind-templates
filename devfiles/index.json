@@ -8,15 +8,15 @@
   "links": {"self":"/devfiles/javaMicroProfileTemplate/devfile.yaml" }
 }
 ,{
-  "displayName":"Spring microservice",
-  "description":"Sample for building a Spring microservice",
+  "displayName":"Spring Boot® microservice",
+  "description":"Sample for building a Spring Boot® microservice",
   "language":"java",
   "projectType":"spring",
   "location":"https://github.com/microclimate-dev2ops/springJavaTemplate",
   "links": {"self":"/devfiles/springJavaTemplate/devfile.yaml" }
 }
 ,{
-  "displayName":"Python microcservice",
+  "displayName":"Python microservice",
   "description":"HelloWorld microservice written in python",
   "language":"python",
   "projectType":"docker",
@@ -32,7 +32,7 @@
   "links": {"self":"/devfiles/nodeExpressTemplate/devfile.yaml" }
 }
 ,{
-  "displayName":"Swift microcservice",
+  "displayName":"Swift microservice",
   "description":"Sample for building a Swift microservice",
   "language":"swift",
   "projectType":"swift",
