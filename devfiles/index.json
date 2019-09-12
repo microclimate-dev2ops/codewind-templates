@@ -1,22 +1,22 @@
 [
 {
-  "displayName":"Java MicroProfile",
-  "description":"Cloud Microservice Starter for Java - MicroProfile / Java EE",
+  "displayName":"WebSphere Liberty MicroProfile® ",
+  "description":"Eclipse MicroProfile® on Websphere Liberty",
   "language":"java",
   "projectType":"liberty",
   "location":"https://github.com/microclimate-dev2ops/javaMicroProfileTemplate",
   "links": {"self":"/devfiles/javaMicroProfileTemplate/devfile.yaml" }
 }
 ,{
-  "displayName":"Spring Boot® microservice",
-  "description":"Sample for building a Spring Boot® microservice",
+  "displayName":"Spring Boot®",
+  "description":"Spring Boot® using IBM Java",
   "language":"java",
   "projectType":"spring",
   "location":"https://github.com/microclimate-dev2ops/springJavaTemplate",
   "links": {"self":"/devfiles/springJavaTemplate/devfile.yaml" }
 }
 ,{
-  "displayName":"Python microservice",
+  "displayName":"Python",
   "description":"HelloWorld microservice written in python",
   "language":"python",
   "projectType":"docker",
@@ -32,7 +32,7 @@
   "links": {"self":"/devfiles/nodeExpressTemplate/devfile.yaml" }
 }
 ,{
-  "displayName":"Swift microservice",
+  "displayName":"Swift",
   "description":"Sample for building a Swift microservice",
   "language":"swift",
   "projectType":"swift",
@@ -40,7 +40,7 @@
   "links": {"self":"/devfiles/swiftTemplate/devfile.yaml" }
 }
 ,{
-  "displayName":"Go microservice",
+  "displayName":"GO",
   "description":"Sample microservice for simple go app",
   "language":"go",
   "projectType":"docker",
@@ -48,7 +48,7 @@
   "links": {"self":"/devfiles/goTemplate/devfile.yaml" }
 }
 ,{
-  "displayName":"Java Lagom microservice",
+  "displayName":"Lagom Java",
   "description":"Sample for building Lagom Reactive microservice in Java",
   "language":"java",
   "projectType":"docker",
